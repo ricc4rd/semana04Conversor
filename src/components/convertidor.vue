@@ -1,6 +1,5 @@
 // CODIGO HTML
 <template>
-<!-- CONVERSOR DE MONEDAS -->
     <div class="container">
         <div class="row">
             <h3 class="money">MONEDAS</h3>
